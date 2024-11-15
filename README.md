@@ -1,5 +1,7 @@
 # DRIT-CAM
 
+![화면 캡처 2024-11-15 214728](https://github.com/user-attachments/assets/32b617f9-499a-4b5d-9b36-2c71c70ca749)
+
 Kim, MinJun, and Sungho Kim. "Synthetic SAR data domain randomization for unseen SAR ATR." Algorithms for Synthetic Aperture Radar Imagery XXXI. Vol. 13032. SPIE, 2024.
 
 # Reference
