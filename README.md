@@ -1,5 +1,6 @@
 # DRIT-CAM
 
+Kim, MinJun, and Sungho Kim. "Synthetic SAR data domain randomization for unseen SAR ATR." Algorithms for Synthetic Aperture Radar Imagery XXXI. Vol. 13032. SPIE, 2024.
 
 # Reference
 Lee, Hsin-Ying, et al. "Diverse image-to-image translation via disentangled representations." Proceedings of the European conference on computer vision (ECCV). 2018.  
